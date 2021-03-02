@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACE,uBACF,CACA,SACE,qBACF,CACA,aACE,cACF,CACA,kBAEE,gBACF","file":"main.566b6a39.chunk.css","sourcesContent":["body {\n  background-color: orange;\n}\n.preview {\n  background-color: white;\n}\n.preview img {\n  max-width: 100%;\n}\ntextarea,\n.preview {\n  min-height: 400px;\n}\n"]}
