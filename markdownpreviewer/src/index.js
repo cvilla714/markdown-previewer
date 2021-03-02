@@ -1,8 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
+import "bootstrap/dist/css/bootstrap.css";
 import marked from "marked";
-import { Tooltip, Toast, Popover } from "bootstrap";
 
 const initalState = `
 this is a paragraph
