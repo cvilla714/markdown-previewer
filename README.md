@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/cvilla714/randomquotesmachine/b2e9424d4de9d165dccd2c9dd43c3f2c8f8453a2/dist/index.html)
+[Live Demo Link]()
 
 ## Getting Started
 
@@ -49,7 +49,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/cvilla714/randomquotesmachine/pulls).
+Feel free to check the [issues page](https://github.com/cvilla714/markdown-previewer/pulls).
 
 ## Show your support
 
@@ -57,4 +57,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://github.com/cvilla714/randomquotesmachine/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/cvilla714/markdown-previewer/blob/master/LICENSE) licensed.
