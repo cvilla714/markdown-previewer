@@ -2,6 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 // import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./index.css";
 import marked from "marked";
 
 const initalState = `
@@ -51,14 +52,14 @@ class App extends React.Component {
     const markdown = marked(text, { breaks: true });
     return (
       <div>
-        <h1 className="text-center mt-4">Convert your Markdown</h1>
+        <h1 className="text-center mt-4 bg-success">Convert your Markdown</h1>
         <div className="row">
           <div className="col-6">
-            <h5 className="text-center">Enter your markdown:</h5>
+            <h5 className="text-center bg-primary">Enter your markdown:</h5>
             <textarea className="form-control p-2" id="editor" value={text} onChange={this.handleChange} />
           </div>
           <div className="col-6">
-            <h5 className="text-center">See the result</h5>
+            <h5 className="text-center bg-primary">See the result</h5>
             <div className="preview rounded p-2" dangerouslySetInnerHTML={{ __html: markdown }} id="preview"></div>
           </div>
         </div>
