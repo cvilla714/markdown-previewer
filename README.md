@@ -1,7 +1,7 @@
 # Project: Markdown Previewer
 
-> Project was about creating a markdown previewer
-> the idea is to type in one box and the next box will > show the result
+> The project was about creating a markdown previewer the idea is to type
+>  on the left box using markdown and the right box will show the result. 
 
 ![screenshot](./app_screenshot.png)
 
